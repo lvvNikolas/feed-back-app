@@ -1,6 +1,11 @@
 function App(){
     return (
-        <h1>Hello from the App component</h1>
+        <div className="container">
+        <h1>My App</h1>
+        <p>Hello</p>
+        
+        </div>
+        
     )
 }
 
